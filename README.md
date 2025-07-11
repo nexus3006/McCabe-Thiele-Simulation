@@ -13,6 +13,8 @@ Real-time stage tracking using staircase construction
 
 Material and energy balance calculations
 
+<img width="400" height="294" alt="image" src="https://github.com/user-attachments/assets/6750ce81-677c-4f64-a6c6-bf0d58b61150" />
+
 # Key Features
 Feed Conditions:
 
