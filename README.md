@@ -1,5 +1,6 @@
 # Binary Distillation Simulation: Ethanol–Water System with Reflux Optimization
-**Overview**
+**Overview**:
+
 This project presents a dynamic simulation of binary distillation for an ethanol–water mixture using MATLAB. The system is modeled to explore transient effects due to time-varying feed composition and optimize energy consumption through reflux ratio control. The McCabe–Thiele method is used to track theoretical stage requirements, and energy duties for the condenser and reboiler are computed over a 10-hour run.
 
 The simulation captures realistic process behavior by incorporating:
@@ -57,4 +58,5 @@ Condenser duty: 5.70 MJ
 
 # Energy Optimization:
 Reflux optimization led to an estimated 18 percent reduction in reboiler duty compared to a fixed reflux baseline
+
 Energy savings achieved without increasing stage count or sacrificing product purity
